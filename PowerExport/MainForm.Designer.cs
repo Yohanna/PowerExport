@@ -43,7 +43,7 @@
             // 
             this.changeButton.AutoSize = true;
             this.changeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.changeButton.Location = new System.Drawing.Point(179, 93);
+            this.changeButton.Location = new System.Drawing.Point(184, 84);
             this.changeButton.Name = "changeButton";
             this.changeButton.Size = new System.Drawing.Size(133, 39);
             this.changeButton.TabIndex = 26;
@@ -97,14 +97,6 @@
             this.resolutionComboBox.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.resolutionComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.resolutionComboBox.FormattingEnabled = true;
-            this.resolutionComboBox.Items.AddRange(new object[] {
-            "50",
-            "96",
-            "100",
-            "150",
-            "200",
-            "250",
-            "300"});
             this.resolutionComboBox.Location = new System.Drawing.Point(211, 30);
             this.resolutionComboBox.Name = "resolutionComboBox";
             this.resolutionComboBox.Size = new System.Drawing.Size(59, 26);
