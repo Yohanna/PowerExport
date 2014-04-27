@@ -21,6 +21,11 @@ The following export resolutions are supported:
 |2500 × 1875 | 3333 × 1875	| 250 dpi 			|
 |3000 × 2250 | 4000 × 2250	| 300 dpi 			| 
 
+
+# Screenshots #
+
+![Main Screen] (https://raw.githubusercontent.com/Yohanna/PowerExport/master/Screenshots/PowerExport%20Screenshot.PNG)
+
 # Note #
 
 In order for PowerExport to detect resolution settings correctly you need to run PowerPoint at least once since certain registry values are created when PowerPoint run for the first time on the computer. 
