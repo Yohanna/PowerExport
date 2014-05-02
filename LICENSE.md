@@ -629,7 +629,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    PowerPoint Resolution Changer - A tool to for changing the resolution of saved PowerPoint slides on Windows.
+    PowerExport - A tool to for changing the resolution of saved PowerPoint slides on Windows.
     Copyright (C) 2014 Yohanna Gadelrab
 
     This program is free software: you can redistribute it and/or modify
