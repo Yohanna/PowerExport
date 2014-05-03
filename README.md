@@ -15,6 +15,7 @@ Ever had to save your PowerPoint slides as a picture and wasn't satisfied with t
 
 The following export resolutions are supported:
 
+
 |Full-screen pixels (horizontal × vertical) | Widescreen pixels (horizontal × vertical) | per inch (horizontal and vertical) |
 |:------------:|:--------------:|:-------------:|
 |500 × 375	 | 667 × 375	|	50 dpi			|
@@ -25,6 +26,8 @@ The following export resolutions are supported:
 |2500 × 1875 | 3333 × 1875	| 250 dpi 			|
 |3000 × 2250 | 4000 × 2250	| 300 dpi 			| 
 
+
+- Note that the maximum supported resolution by PowerPoint is 307 dpi.
 
 # Screenshots #
 
