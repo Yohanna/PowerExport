@@ -2,9 +2,13 @@
 
 Ever had to save your PowerPoint slides as a picture and wasn't satisfied with the resolution of the files? PowerExport provides an easy way to change the default export resolution (96 dpi) of PowerPoint slides.
 
-# How it works #
+# Usage
 
-It creates or/and changes a certain registry value in Windows Registry according to the Office version and the required resolution.
+- In order for PowerExport to detect resolution settings correctly you need to run PowerPoint at least once since certain registry values are created when PowerPoint run for the first time on the computer. 
+
+- Select the required resolution from the Resolutions combo box and select the office version which you want to change its export resolution.
+
+- Be advised that only the installed versions of office are shown in the combo box. If you have an office version that's not detected refer to the first step or submit an issue.
 
 
 # Limitations #
@@ -25,7 +29,3 @@ The following export resolutions are supported:
 # Screenshots #
 
 ![Main Screen] (https://raw.githubusercontent.com/Yohanna/PowerExport/master/Screenshots/PowerExport%20Screenshot.PNG)
-
-# Note #
-
-In order for PowerExport to detect resolution settings correctly you need to run PowerPoint at least once since certain registry values are created when PowerPoint run for the first time on the computer. 
