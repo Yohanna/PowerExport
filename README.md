@@ -31,4 +31,4 @@ The following export resolutions are supported:
 
 # Screenshots #
 
-![Main Screen] (https://raw.githubusercontent.com/Yohanna/PowerExport/master/Screenshots/PowerExport%20Screenshot.PNG)
+![Main Screen](https://raw.githubusercontent.com/Yohanna/PowerExport/master/Screenshots/PowerExport%20Screenshot.PNG)
